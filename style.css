@@ -10,7 +10,7 @@ body {
 }
 
 .pictimg1 {
-  background-image: url(image/first\ last\ section.jpeg);
+  background-image: url(./first\ last\ section.jpeg);
   min-height: 100%;
 }
 
@@ -26,12 +26,12 @@ body {
 }
 
 .pictimg2 {
-  background-image: url(image/section\ two.jpeg);
+  background-image: url(./section\ two.jpeg);
   min-height: 400px;
 }
 
 .pictimg3 {
-  background-image: url(image/third\ section.jpeg);
+  background-image: url(./third\ section.jpeg);
   min-height: 400px;
 }
 
